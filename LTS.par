@@ -1,0 +1,17 @@
+200	ns	
+1	smin                                                      
+5000	smax	
+1	dismod	
+0	m                                                         
+68	n                                                         
+1	ne                                                        
+13	errmod                                                    
+0.3	error                                                     
+221	regmod                                                    
+0.11e26	lambda                                                    
+3	infmod                                                    
+-10.0	lambst                                                    
+1.0	lambsp                                                    
+120.0	lambra                                                    
+1.e-8	lambpr                                                    
+200	lambit                                                    
